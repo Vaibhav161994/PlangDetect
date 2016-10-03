@@ -32,9 +32,10 @@ Now goto Imported project and Right click on it
 First of all we take keyword of all the languages and find out the minimum keyword to show simple program,
 then take that keyword and store it into array then check these keyword in console if it is availble then show that language.
 ========================================Algo==================================================
-
-
-
+>>we take file in which contain method is there which check the string in array if will identify which language it is
+>>then it return the name of Language
+>>example:-if Public static void main(String args[])
+found in file then it return Java It is only syntex which is only found in Java.
 ===================================== Implementation==========================================
 In console we provide syntactical correct code we use contain keywords to check the console code then display that language otherwise it show language not available. 
 
@@ -43,15 +44,13 @@ In console we provide syntactical correct code we use contain keywords to check 
 ============================================Data structure=================================
 we can store diffrent keyword of individual language in array then we provide syntactical correct code in console then it show corresponding language
 
-
-
 ==============================================Running Instructions===========================
 >>Right click on project
 >>run as>>run on server
 >>then provide syntactical correct code on web
 >>it will display Name of Language
-
-
 ==================================Future Prospects============================================
-Every Language have there own interpretator 
+Every Language have there own interpretator or compiler we need to strgies of compiler and interpreter of respective language
+after study the we will see how tokenzination of vcode happen within respective programming lan based on thatwe can upgrade our web appl logic
+
 
