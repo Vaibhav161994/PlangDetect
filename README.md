@@ -28,5 +28,30 @@ under Servers tab. Double click on it verify HTTP ports information. By default 
 Now goto Imported project and Right click on it 
 >>Run as
 >>Run on Server
-===========================================
+===========================================Approach to problem-solving===============================
+First of all we take keyword of all the languages and find out the minimum keyword to show simple program,
+then take that keyword and store it into array then check these keyword in console if it is availble then show that language.
+========================================Algo==================================================
+
+
+
+===================================== Implementation==========================================
+In console we provide syntactical correct code we use contain keywords to check the console code then display that language otherwise it show language not available. 
+
+
+
+============================================Data structure=================================
+we can store diffrent keyword of individual language in array then we provide syntactical correct code in console then it show corresponding language
+
+
+
+==============================================Running Instructions===========================
+>>Right click on project
+>>run as>>run on server
+>>then provide syntactical correct code on web
+>>it will display Name of Language
+
+
+==================================Future Prospects============================================
+Every Language have there own interpretator 
 
